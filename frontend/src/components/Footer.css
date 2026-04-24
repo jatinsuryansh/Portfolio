@@ -1,0 +1,19 @@
+.footer {
+  background: linear-gradient(180deg, rgba(10, 14, 26, 0.98), rgba(15, 23, 42, 0.98));
+  color: #e9ecef;
+  padding: 20px 0;
+  margin-top: auto;
+  border-top: 1px solid rgba(30, 144, 255, 0.3);
+  box-shadow: 0 -2px 20px rgba(30, 144, 255, 0.1);
+}
+
+.footer-bottom {
+  text-align: center;
+}
+
+.footer-bottom p {
+  margin: 0;
+  color: #4da6ff;
+  font-size: 0.9rem;
+  text-shadow: 0 0 10px rgba(77, 166, 255, 0.5);
+}
