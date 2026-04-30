@@ -38,7 +38,7 @@ const Projects: React.FC = () => {
     {
       title: 'Coffee Shop Landing Page UI',
       description: 'Created an engaging and conversion-focused coffee shop UI that highlights products and encourages ordering. Designed a hero landing section with strong headline, background imagery, and a primary Order Now call-to-action. Built a product showcase with pricing and descriptions, category-based navigation (Hot Coffee, Cake, Pastries, Cold Coffee), and interactive buttons/icons. Implemented a clean, modern layout with a consistent color palette plus a structured footer containing useful links and social media.',
-      technologies: ['UI Design', 'HTML', 'CSS', 'JavaScript', 'Responsive Design'],
+      technologies: ['UI Design', 'Responsive Design'],
       liveUrl: 'https://example-coffeeshop.com',
       githubUrl: 'https://github.com/username/coffee-shop-ui',
       imageUrl: '/coffee1.png',

@@ -46,7 +46,7 @@ const Home: React.FC = () => {
               <h2>{aboutData.title}</h2>
               <p className="hero-bio">{aboutData.bio}</p>
               <div className="hero-cta">
-                <a href="/Jatin CV.pdf.pdf" download="Jatin_CV.pdf" className="btn btn-primary">Download CV</a>
+                <a href="/(Jatin_Cv).pdf" download="Jatin_CV.pdf" className="btn btn-primary">Download CV</a>
                 <Link to="/contact" className="btn btn-secondary">Contact</Link>
               </div>
             </div>
